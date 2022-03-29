@@ -1,7 +1,7 @@
 ## Hi there I'm Shubham 👋
 
 * 🔭 I’m currently working on something cool 😁
-* 🌱 I’m currently learning Express.js
+* 🌱 I’m currently learning QT
 * 💬 Ask me about C++, IoT and Cyber Security
 * ⚡ Fun fact: I❤️🎮
 <!-- * 📫 How to reach me: -->
